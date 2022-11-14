@@ -1,0 +1,7 @@
+{
+  "user": "email",
+  "password": "api token",
+  "link": "https://YOURDOMAIN.atlassian.net",
+  "old domain": "OLDDOMAIN.atlassian.net",
+  "new domain": "NEWDOMAIN.atlassian.net"
+}
